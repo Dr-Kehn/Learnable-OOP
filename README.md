@@ -1,3 +1,5 @@
+The source code of the task can be found within the file with the name OOP_TASK.js
+
 Title of the System: Attendance System for Students and Lecturer
 
 Problem Domain:
